@@ -27,49 +27,49 @@ const Hormones = () => {
       <section style={{ marginTop: '32px' }}>
         <h2>Pergeseran Paradigma Hormonal</h2>
         <p>
-          Salah satu kontribusi paling revolusioner dari Dr. Ray Peat adalah pandangannya terhadap hormon seks, khususnya estrogen dan progesteron. Berbeda dengan pandangan medis konvensional yang sering menganggap estrogen semata-mata sebagai "hormon wanita yang baik", Ray Peat melihatnya dari sudut pandang bioenergetik.
+          Salah satu kontribusi paling revolusioner dari Dr. Ray Peat adalah pandangannya terhadap hormon seks, khususnya estrogen dan progesteron. Berbeda dengan pandangan medis konvensional yang sering menganggap estrogen semata-mata sebagai "hormon wanita yang baik", Ray Peat melihatnya dari sudut pandang bioenergetik dan evolusi.
         </p>
 
-        <h2>Estrogen: Hormon Pertumbuhan & Stres</h2>
+        <h2>Estrogen: Hormon Syok, Hipoksia, dan Stres</h2>
         <p>
-          Ray Peat mengklasifikasikan estrogen sebagai hormon yang berhubungan dengan pembelahan sel, pertumbuhan, dan stres (syok). 
+          Ray Peat mengklasifikasikan estrogen bukan sebagai hormon feminitas sejati, melainkan hormon yang berhubungan dengan pembelahan sel yang tidak terkendali, pertumbuhan berlebih, dan respons terhadap syok atau cedera (hipoksia/kurang oksigen). 
         </p>
         <ul style={{ listStyleType: 'none', paddingLeft: '8px' }}>
-          <li><span className="dot dot-orange"></span><strong>Mengurangi Oksigenasi:</strong> Estrogen dalam jumlah berlebihan dapat menggeser metabolisme dari menggunakan oksigen secara efisien menjadi glikolisis (fermentasi).</li>
-          <li><span className="dot dot-orange"></span><strong>Estrogen Dominance:</strong> Kondisi di mana rasio estrogen terhadap progesteron terlalu tinggi, sering dikaitkan dengan penuaan, infertilitas, dan risiko tumor.</li>
-          <li><span className="dot dot-orange"></span><strong>Pemicu Stres:</strong> Kelebihan estrogen dapat memicu pelepasan kortisol (hormon stres).</li>
+          <li><span className="dot dot-orange"></span><strong>Menghambat Oksigenasi:</strong> Estrogen menghalangi pelepasan oksigen ke jaringan, memaksa sel bergeser dari pernapasan mitokondria yang efisien ke fermentasi laktat (karakteristik sel tumor).</li>
+          <li><span className="dot dot-orange"></span><strong>Estrogen Dominance:</strong> Kondisi di mana rasio estrogen terlalu tinggi dibandingkan progesteron. Ini menyebabkan penuaan dini, edema (retensi air), pembekuan darah, penyakit autoimun, dan dominasi lemak.</li>
+          <li><span className="dot dot-orange"></span><strong>Pemicu Stres Sistemik:</strong> Estrogen merangsang kelenjar adrenal untuk memproduksi kortisol, menciptakan siklus stres yang merusak tiroid.</li>
         </ul>
 
-        <h2>Progesteron: Sang Pelindung (The Protective Hormone)</h2>
+        <h2>Progesteron & Pregnenolon: Sang Pelindung (The Protective Hormones)</h2>
         <p>
-          Sebaliknya, progesteron adalah hormon pro-kehamilan, pro-kelangsungan hidup, dan anti-stres. Ray Peat meneliti ekstensif bagaimana progesteron melindungi tubuh secara sistemik.
+          Sebaliknya, progesteron adalah hormon pro-kehamilan, pro-kelangsungan hidup, dan anti-stres utama. Pregnenolon adalah "ibu" dari hormon ini, yang diproduksi oleh mitokondria saat ada cukup kolesterol, vitamin A, dan hormon tiroid (T3).
         </p>
         <ul style={{ listStyleType: 'none', paddingLeft: '8px' }}>
-          <li><span className="dot dot-yellow"></span><strong>Anti-Estrogen Alami:</strong> Progesteron menyeimbangkan dan memblokir efek racun dari kelebihan estrogen.</li>
-          <li><span className="dot dot-yellow"></span><strong>Mendukung Tiroid:</strong> Progesteron memfasilitasi pelepasan hormon tiroid dan meningkatkan suhu tubuh (metabolic rate).</li>
-          <li><span className="dot dot-yellow"></span><strong>Pelindung Saraf (Neuroprotective):</strong> Melindungi otak dari stres eksitotoksik dan penuaan.</li>
-          <li><span className="dot dot-yellow"></span><strong>Penenang Alami:</strong> Memberikan efek menenangkan pada sistem saraf, sangat kontras dengan efek estrogen yang memicu kecemasan.</li>
+          <li><span className="dot dot-yellow"></span><strong>Anti-Estrogen Alami:</strong> Progesteron memblokir efek racun dari kelebihan estrogen dan mempercepat pembuangannya dari liver.</li>
+          <li><span className="dot dot-yellow"></span><strong>Mendukung Tiroid:</strong> Progesteron memfasilitasi kelenjar tiroid untuk melepaskan hormon aktif ke dalam darah, sehingga meningkatkan <em>metabolic rate</em>.</li>
+          <li><span className="dot dot-yellow"></span><strong>Pelindung Saraf (Neuroprotective):</strong> Melindungi otak dari kerusakan eksitotoksik akibat kelebihan kalsium dan glutamat.</li>
+          <li><span className="dot dot-yellow"></span><strong>Penenang Alami:</strong> Mengaktifkan reseptor GABA di otak, memberikan efek menenangkan secara instan tanpa membuat kecanduan (berbeda dengan obat penenang).</li>
         </ul>
 
-        <h2>Hormon Tiroid: Konduktor Metabolisme</h2>
+        <h2>Adrenalin & Kortisol: Hormon Pemecah Tubuh (Catabolic)</h2>
         <p>
-          Hormon tiroid (khususnya T3 aktif) adalah pusat dari segalanya. Tanpa fungsi tiroid yang memadai, sel tidak dapat memproduksi energi (ATP) secara optimal.
+          Adrenalin dan Kortisol diproduksi saat kadar gula darah terlalu rendah atau saat tubuh dalam bahaya. Jika dibiarkan tinggi secara kronis:
         </p>
         <p>
-          <strong>Kaitan dengan Diet:</strong> Diet yang terlalu membatasi kalori atau karbohidrat akan menyebabkan hati gagal mengubah T4 (hormon tidak aktif) menjadi T3 (aktif), sehingga menurunkan metabolisme sebagai mekanisme pertahanan tubuh terhadap kelaparan.
+          <strong>Kortisol</strong> akan memecah jaringan yang sehat (otot, kulit, dan kelenjar timus/imun) untuk diubah menjadi gula oleh hati. Ini adalah proses penuaan yang dipercepat. Itulah mengapa Ray Peat sangat merekomendasikan makan gula alami dan cukup natrium (garam) untuk secara cepat menekan pelepasan adrenalin dan kortisol.
         </p>
 
-        <h2>Kortisol: Hormon Pemecah Tubuh</h2>
+        <h2>Lingkungan Estrogenik</h2>
         <p>
-          Kortisol diproduksi saat kadar gula darah terlalu rendah atau saat tubuh dalam bahaya. Jika kortisol kronis tinggi, ia akan memecah otot, kulit, dan jaringan timus (imun) untuk diubah menjadi gula. Itulah mengapa Ray Peat sangat merekomendasikan makan gula alami dan menyeimbangkan kalsium/fosfor untuk menekan pelepasan kortisol.
+          Kita hidup di dunia yang sangat estrogenik. Dr. Peat memperingatkan bahwa paparan dari plastik (BPA), pestisida, polusi industri, dan bahkan fitoestrogen dari kedelai dapat meniru efek estrogen dalam tubuh, memperparah masalah metabolik baik pada pria maupun wanita.
         </p>
 
         <h2>Kesimpulan Praktis</h2>
         <ol>
-          <li>Dukung tiroid Anda dengan nutrisi yang cukup (karbohidrat berkualitas dan protein).</li>
-          <li>Hindari lemak jenuh ganda (PUFA) karena mereka memblokir fungsi tiroid dan meningkatkan dominasi estrogen.</li>
-          <li>Kendalikan stres untuk menjaga kortisol tetap rendah.</li>
-          <li>Konsumsi cukup vitamin E (antioksidan) yang memiliki efek anti-estrogenik.</li>
+          <li>Dukung tiroid Anda dengan nutrisi yang cukup (karbohidrat berkualitas dan protein) agar tubuh dapat membuat pregnenolon dan progesteron.</li>
+          <li>Pastikan fungsi liver optimal (dengan cukup glukosa/fruktosa) agar dapat membuang kelebihan estrogen.</li>
+          <li>Makan wortel mentah parut: Serat unik dalam wortel mengikat estrogen dan endotoksin di usus untuk dibuang.</li>
+          <li>Kendalikan stres dan makan cukup karbohidrat untuk mencegah lonjakan kortisol.</li>
         </ol>
 
       </section>

@@ -27,53 +27,54 @@ const Foods = () => {
       <section style={{ marginTop: '32px' }}>
         <h2>Prinsip Nutrisi Ray Peat</h2>
         <p>
-          Berbeda dengan banyak diet modern yang berfokus pada "pembatasan" (seperti membatasi karbohidrat atau lemak), pendekatan nutrisi Dr. Ray Peat berfokus pada <strong>memberi bahan bakar</strong> yang tepat agar kelenjar tiroid dan metabolisme sel dapat bekerja dengan maksimal.
+          Berbeda dengan banyak diet modern yang berfokus pada "pembatasan" (seperti membatasi karbohidrat atau lemak), pendekatan nutrisi Dr. Ray Peat berfokus pada <strong>memberi bahan bakar</strong> yang tepat agar kelenjar tiroid dan metabolisme sel dapat bekerja dengan maksimal. Makanan bukan hanya kalori; makanan adalah sinyal kimiawi bagi sel Anda.
         </p>
 
         <h2>Makanan Pro-Metabolik Utama</h2>
         
         <h3>1. Karbohidrat Sederhana (Gula Alami)</h3>
         <p>
-          Ray Peat tidak takut pada gula, asalkan berasal dari sumber yang tepat. Fruktosa dalam buah-buahan sangat mendukung metabolisme hati dan produksi hormon tiroid aktif (T3).
+          Ray Peat tidak takut pada gula, asalkan berasal dari sumber yang tepat. Fruktosa sangat mendukung metabolisme hati karena ia dapat disimpan sebagai glikogen bahkan saat sel sedang berada di bawah pengaruh stres (berbeda dengan glukosa yang butuh insulin).
         </p>
         <ul style={{ listStyleType: 'none', paddingLeft: '8px' }}>
-          <li><span className="dot dot-yellow"></span><strong>Buah-buahan manis:</strong> Jeruk, semangka, anggur, pepaya.</li>
-          <li><span className="dot dot-yellow"></span><strong>Jus jeruk segar:</strong> Sumber kalium, magnesium, dan gula alami tanpa serat berlebih yang bisa mengiritasi usus.</li>
-          <li><span className="dot dot-yellow"></span><strong>Madu murni:</strong> Anti-inflamasi alami.</li>
+          <li><span className="dot dot-yellow"></span><strong>Buah-buahan manis:</strong> Jeruk, semangka, anggur, pepaya. Buah tropis umumnya lebih disarankan.</li>
+          <li><span className="dot dot-yellow"></span><strong>Jus jeruk segar:</strong> Mengandung rasio kalium dan magnesium yang sempurna, ditambah gula alami tanpa serat berlebih. (Pati/serat berlebih sering memberi makan bakteri jahat di usus).</li>
+          <li><span className="dot dot-yellow"></span><strong>Madu murni:</strong> Punya efek anti-inflamasi alami dan tidak meningkatkan gula darah secara brutal.</li>
         </ul>
 
-        <h3>2. Protein Berkualitas Tinggi</h3>
+        <h3>2. Mengapa Gula Lebih Baik dari Pati (Starch)?</h3>
         <p>
-          Protein dibutuhkan untuk memperbaiki jaringan, namun Ray Peat menyarankan menyeimbangkan asam amino (terutama menghindari kelebihan triptofan dan metionin yang terdapat pada otot/daging murni).
+          Kebanyakan orang modern disuruh makan gandum atau biji-bijian (complex carbs). Namun Ray Peat menjelaskan bahwa molekul pati sering tidak tercerna sempurna dan akan berfermentasi di usus besar, menghasilkan gas dan endotoksin. Endotoksin (LPS) masuk ke aliran darah, meracuni liver, dan menurunkan tiroid. Gula sederhana langsung diserap tanpa memberi makan bakteri.
+        </p>
+
+        <h3>3. Protein Berkualitas dan Gelatin</h3>
+        <p>
+          Protein dibutuhkan untuk memperbaiki jaringan, namun Ray Peat sangat menekankan pentingnya menyeimbangkan asam amino. Daging otot merah mengandung metionin dan triptofan tinggi yang bisa menekan tiroid dan memicu penuaan jika berlebih.
         </p>
         <ul style={{ listStyleType: 'none', paddingLeft: '8px' }}>
-          <li><span className="dot dot-orange"></span><strong>Susu sapi & Keju:</strong> Sumber kalsium yang sangat baik (kalsium menekan hormon stres PTH).</li>
-          <li><span className="dot dot-orange"></span><strong>Kaldu tulang / Gelatin:</strong> Mengandung glisin yang bersifat anti-inflamasi, anti-stres, dan menyeimbangkan asam amino dari daging.</li>
-          <li><span className="dot dot-orange"></span><strong>Telur & Makanan laut (Seafood):</strong> Seperti udang, kerang, dan ikan putih (bukan ikan berlemak tinggi PUFA).</li>
+          <li><span className="dot dot-orange"></span><strong>Kaldu tulang / Gelatin / Kolagen:</strong> Kaya akan Glisin dan Prolin, yang bersifat anti-inflamasi, anti-stres, memperbaiki pelapis usus, dan menyeimbangkan asam amino dari daging.</li>
+          <li><span className="dot dot-orange"></span><strong>Susu sapi & Keju:</strong> Sumber kalsium yang luar biasa. Kalsium menekan hormon stres (Parathyroid Hormone / PTH). Ketika kalsium kurang, PTH naik, yang menarik kalsium keluar dari tulang dan memicu peradangan seluler.</li>
+          <li><span className="dot dot-orange"></span><strong>Telur & Makanan laut (Seafood):</strong> Terutama kerang dan udang, yang kaya akan tembaga (copper) dan zinc untuk mendukung pernapasan mitokondria. Ikan putih sangat baik (hindari salmon berlemak tinggi PUFA setiap hari).</li>
         </ul>
 
-        <h3>3. Lemak Jenuh (Saturated Fats)</h3>
+        <h3>4. Lemak Jenuh (Saturated Fats)</h3>
         <p>
-          Lemak jenuh sangat stabil dan tidak mudah teroksidasi di dalam tubuh, sehingga melindungi sel dari stres oksidatif.
+          Lemak jenuh sangat stabil dan tidak memiliki rantai ganda yang mudah bereaksi, sehingga melestarikan vitamin E dan melindungi tubuh dari stres oksidatif.
         </p>
         <ul style={{ listStyleType: 'none', paddingLeft: '8px' }}>
-          <li><span className="dot dot-olive"></span><strong>Minyak kelapa (Coconut oil):</strong> Membantu merangsang metabolisme dan menekan enzim yang merusak tiroid.</li>
-          <li><span className="dot dot-olive"></span><strong>Mentega (Butter) & Ghee:</strong> Kaya akan vitamin larut lemak.</li>
+          <li><span className="dot dot-olive"></span><strong>Minyak kelapa (Coconut oil):</strong> Mengandung Medium Chain Triglycerides (MCT) yang membantu merangsang metabolisme hati dan menekan enzim pro-inflamasi.</li>
+          <li><span className="dot dot-olive"></span><strong>Mentega (Butter) & Ghee:</strong> Sumber vitamin A, D, dan K2 yang krusial untuk mencegah kalsifikasi jaringan lunak.</li>
         </ul>
-
-        <h2>Debat Gula: Mengapa Tidak Perlu Takut?</h2>
-        <p>
-          Banyak yang salah paham bahwa "Ray Peat menyuruh makan gula putih sebanyak-banyaknya." Sebenarnya, beliau menyoroti bahwa tubuh dalam keadaan stres akan memecah protein otot (melalui kortisol) untuk membuat gula jika asupan karbohidrat kurang. Mengonsumsi gula alami mencegah pemecahan otot ini.
-        </p>
 
         <h2>Anti-Metabolic Foods (Yang Harus Dihindari)</h2>
         <p>
-          Sebaliknya, Ray Peat menyarankan meminimalkan konsumsi makanan yang menekan fungsi tiroid:
+          Ray Peat menyarankan sebisa mungkin menghindari makanan yang secara aktif membunuh mitokondria dan mematikan tiroid:
         </p>
         <ul style={{ listStyleType: 'none', paddingLeft: '8px' }}>
-          <li><span className="dot dot-orange"></span><strong>Minyak Biji-bijian (Seed Oils / PUFA):</strong> Minyak kedelai, jagung, kanola. Ini adalah racun utama bagi mitokondria.</li>
-          <li><span className="dot dot-orange"></span><strong>Kacang-kacangan & Biji-bijian utuh:</strong> Sering mengandung penghambat enzim, asam fitat, dan PUFA tinggi.</li>
-          <li><span className="dot dot-orange"></span><strong>Sayuran silangan mentah (Cruciferous):</strong> Brokoli atau kol mentah dapat mengganggu fungsi tiroid.</li>
+          <li><span className="dot dot-orange"></span><strong>Minyak Biji-bijian (Seed Oils / PUFA):</strong> Minyak kedelai, jagung, kanola, biji bunga matahari. Ini adalah racun utama bagi metabolisme (lipid peroxidation).</li>
+          <li><span className="dot dot-orange"></span><strong>Kacang-kacangan & Biji-bijian utuh:</strong> Sering mengandung asam fitat yang memblokir penyerapan mineral (zinc, zat besi) serta kaya akan PUFA.</li>
+          <li><span className="dot dot-orange"></span><strong>Sayuran silangan mentah (Cruciferous):</strong> Brokoli, kubis, atau kale mentah memiliki goitrogen alami yang langsung mengganggu penyerapan yodium pada kelenjar tiroid.</li>
+          <li><span className="dot dot-orange"></span><strong>Daging babi & unggas komersial:</strong> Hewan ini diberi pakan jagung dan kedelai sehingga dagingnya mengandung level PUFA yang sangat tinggi, mirip minyak goreng cair.</li>
         </ul>
 
       </section>

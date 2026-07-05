@@ -40,58 +40,51 @@ const Article = () => {
           [Baca lebih detail: <a href="https://raypeat.com/articles/metabolic-rate" target="_blank" rel="noopener noreferrer">raypeat.com/articles/metabolic-rate</a>]
         </p>
 
+        <h2>Respirasi Seluler: Kunci dari Segalanya</h2>
+        <p>
+          Menurut Ray Peat, inti dari tingkat metabolisme yang tinggi adalah <strong>respirasi seluler</strong> yang efisien di dalam mitokondria. Ketika sel Anda memiliki cukup oksigen, gula, dan hormon tiroid, mereka memproduksi energi (ATP) dan karbon dioksida (CO2) dalam jumlah besar. Sebaliknya, jika metabolisme rendah atau terhambat (karena stres atau racun), sel terpaksa menggunakan fermentasi asam laktat yang sangat tidak efisien dan memicu peradangan.
+        </p>
+
         <h2>Mengapa Ray Peat Fokus pada Metabolic Rate?</h2>
         <p>
-          Menurut penelitian Ray Peat, metabolic rate yang tinggi adalah FONDASI dari kesehatan yang baik. Ketika metabolisme Anda tinggi:
+          Menurut penelitian Ray Peat, metabolic rate yang tinggi adalah FONDASI dari kesehatan yang baik. Metabolisme yang lambat adalah ciri utama penuaan dan penyakit degeneratif. Ketika metabolisme Anda tinggi:
         </p>
         <ul style={{ listStyleType: 'none', paddingLeft: '8px' }}>
-          <li><span className="dot dot-yellow"></span><strong>Energi tinggi</strong> → fokus dan produktivitas lebih baik</li>
-          <li><span className="dot dot-yellow"></span><strong>Imun lebih kuat</strong> → melawan penyakit lebih baik</li>
-          <li><span className="dot dot-yellow"></span><strong>Hormon seimbang</strong> → mood & fertilitas lebih baik</li>
-          <li><span className="dot dot-yellow"></span><strong>Penuaan lebih lambat</strong> → regenerasi sel lebih optimal</li>
+          <li><span className="dot dot-yellow"></span><strong>Energi tinggi</strong> → sel memiliki banyak ATP untuk melakukan tugasnya.</li>
+          <li><span className="dot dot-yellow"></span><strong>Imun lebih kuat</strong> → sel imun merespons patogen tanpa harus memicu peradangan berlebih.</li>
+          <li><span className="dot dot-yellow"></span><strong>Hormon pelindung</strong> → produksi hormon progesteron dan pregnenolon meningkat.</li>
+          <li><span className="dot dot-yellow"></span><strong>CO2 melimpah</strong> → Karbon dioksida bertindak sebagai vasodilator dan anti-inflamasi alami.</li>
         </ul>
 
-        <h3>Contoh Konkret</h3>
-        <p>Bayangkan dua orang:</p>
-        <ul>
-          <li><strong>Person A:</strong> Metabolic rate tinggi = suhu tubuh normal (37°C), energi sepanjang hari, tidur nyenyak</li>
-          <li><strong>Person B:</strong> Metabolic rate rendah = suhu tubuh rendah (36°C), selalu lelah, tidur tidak nyenyak</li>
-        </ul>
-        <p>Person A lebih sehat, kan? Itulah yang Ray Peat tekankan.</p>
+        <h2>CO2 (Karbon Dioksida): Tanda Metabolisme Sehat</h2>
+        <p>
+          Banyak orang mengira CO2 hanyalah gas buang. Dr. Peat menekankan bahwa CO2 adalah salah satu zat paling protektif di tubuh. Metabolisme yang tinggi memproduksi banyak CO2, yang membantu melepaskan oksigen dari sel darah merah ke jaringan (Efek Bohr), menenangkan sistem saraf, dan mencegah pembengkakan sel (edema).
+        </p>
 
         <h2>Cara Mengukur Metabolic Rate Anda</h2>
         <ol>
-          <li><strong>Suhu tubuh</strong> - ukur pagi sebelum bangun (~10 menit di ketiak). Normal: 37°C. Rendah: {'<36.5°C'} (tanda low metabolism)</li>
-          <li><strong>Heart rate</strong> - ukur denyut jantung saat istirahat. Normal: 60-80 bpm. Terlalu rendah: {'<55 bpm'}</li>
-          <li><strong>Energy levels</strong> - bagaimana energi Anda sepanjang hari?</li>
+          <li><strong>Suhu tubuh</strong> - ukur pagi sebelum bangun (~10 menit di ketiak) dan setelah sarapan. Suhu yang naik setelah makan menunjukkan hati mampu membakar energi dengan baik. Normal: sekitar 37°C di siang hari.</li>
+          <li><strong>Heart rate (Denyut Jantung)</strong> - ukur saat istirahat. Normal: 75-85 bpm (berbeda dengan saran medis modern yang sering merekomendasikan di bawah 60 bpm, Peat melihat denyut rendah sebagai tanda kompensasi adrenalin).</li>
+          <li><strong>Energy levels</strong> - apakah Anda merasa hangat, fokus, dan bebas stres?</li>
         </ol>
 
         <h2>Apa yang Menurunkan Metabolic Rate?</h2>
-        <p>Menurut Ray Peat, beberapa faktor menurunkan metabolisme:</p>
+        <p>Menurut Ray Peat, beberapa faktor mematikan mitokondria dan menurunkan metabolisme:</p>
         <ul>
-          <li><strong>Stress kronis</strong> → tingginya kortisol</li>
-          <li><strong>PUFA (seed oils)</strong> → meracuni mitokondria</li>
-          <li><strong>Kurang tidur</strong> → hormonal imbalance</li>
-          <li><strong>Puasa berkepanjangan</strong> → tubuh "mengira" ada kelaparan</li>
-          <li><strong>Penuaan</strong> → normal, tapi bisa diperlambat</li>
+          <li><strong>Stress kronis</strong> → peningkatan kortisol dan adrenalin secara terus-menerus.</li>
+          <li><strong>PUFA (minyak biji-bijian)</strong> → memblokir enzim pencernaan, tiroid, dan meracuni mitokondria secara langsung (lipid peroxidation).</li>
+          <li><strong>Estrogen Berlebih</strong> → menghalangi sel menggunakan oksigen dan menahan air (edema).</li>
+          <li><strong>Kekurangan glukosa</strong> → diet rendah karbohidrat memaksa tubuh memecah otot untuk membuat gula, yang meningkatkan kortisol.</li>
         </ul>
 
         <h2>Apa yang Meningkatkan Metabolic Rate?</h2>
         <ul style={{ listStyleType: 'none', paddingLeft: '8px' }}>
-          <li><span className="dot dot-olive"></span><strong>Makan cukup</strong> (terutama karbohidrat & gula alami)</li>
-          <li><span className="dot dot-olive"></span><strong>Protein berkualitas</strong> (telur, daging, susu)</li>
-          <li><span className="dot dot-olive"></span><strong>Tiroid sehat</strong> (yodium, selenium)</li>
-          <li><span className="dot dot-olive"></span><strong>Menghindari PUFA</strong> (minyak kelapa lebih baik)</li>
-          <li><span className="dot dot-olive"></span><strong>Tidur berkualitas</strong></li>
-          <li><span className="dot dot-olive"></span><strong>Manajemen stress</strong></li>
+          <li><span className="dot dot-olive"></span><strong>Makan cukup karbohidrat & gula alami</strong> (buah-buahan manis, jus jeruk, madu)</li>
+          <li><span className="dot dot-olive"></span><strong>Protein berkualitas dengan rasio yang tepat</strong> (susu, keju, gelatin, bukan hanya daging otot)</li>
+          <li><span className="dot dot-olive"></span><strong>Mendukung Tiroid</strong> (menghindari makanan goitrogenik dan diet kelaparan)</li>
+          <li><span className="dot dot-olive"></span><strong>Lemak Jenuh</strong> (minyak kelapa dan mentega, yang melindungi dari stres oksidatif)</li>
+          <li><span className="dot dot-olive"></span><strong>Terapi cahaya merah / matahari</strong> (menstimulasi enzim pernapasan di sel)</li>
         </ul>
-
-        <h2>Next Steps</h2>
-        <ol>
-          <li>Ukur suhu tubuh Anda untuk baseline</li>
-          <li>Catat energy levels Anda</li>
-          <li>Jangan terlalu dogmatik—dengarkan tubuh Anda</li>
-        </ol>
 
       </section>
 

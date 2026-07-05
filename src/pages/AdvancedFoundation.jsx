@@ -27,36 +27,40 @@ const AdvancedFoundation = () => {
       <section style={{ marginTop: '32px' }}>
         <h2>Pelengkap Fondasi Bioenergetika</h2>
         <p>
-          Selain nutrisi makro (gula dan lemak jenuh) serta hormon tiroid, ada tiga elemen kunci yang secara langsung mengatur ketahanan seluler terhadap stres, hipoksia (kekurangan oksigen), dan inflamasi. Memahami ketiganya akan menyempurnakan pemahaman Anda tentang filosofi Ray Peat.
+          Selain nutrisi makro (gula dan lemak jenuh) serta hormon tiroid, ada tiga elemen kunci yang secara langsung mengatur ketahanan seluler terhadap stres, hipoksia (kekurangan oksigen), dan inflamasi. Memahami ketiganya akan menyempurnakan pemahaman Anda tentang filosofi penyembuhan Ray Peat.
         </p>
 
-        <h2>1. Gelatin (Glisin): Anti-Inflamasi Alami</h2>
+        <h2>1. Gelatin (Glisin): Keseimbangan Asam Amino</h2>
         <p>
-          Daging otot utuh (seperti dada ayam atau steak murni) kaya akan asam amino triptofan dan metionin. Triptofan adalah prekursor serotonin (yang memicu stres energi), sementara metionin dapat menekan fungsi tiroid.
+          Makan daging tanpa tulang (seperti dada ayam atau steak murni) membanjiri darah dengan asam amino triptofan dan metionin. Triptofan diubah menjadi serotonin (hormon hibernasi/stres yang menurunkan energi), sementara kelebihan metionin dapat menekan fungsi kelenjar tiroid dan mempercepat penuaan.
         </p>
         <p>
-          Secara tradisional, manusia memakan seluruh bagian hewan, termasuk kulit, tulang rawan, dan kaldu yang kaya akan kolagen/gelatin. Gelatin mengandung sepertiga <strong>glisin</strong>. Glisin memiliki efek menenangkan sistem saraf yang luar biasa, melindungi perut dari bisul, melawan peradangan, dan melindungi sel dari kematian dini akibat stres. 
+          Secara tradisional, manusia memakan seluruh bagian hewan "from nose to tail", termasuk tulang rawan, kulit, dan kaldu yang kaya akan kolagen (gelatin). Gelatin mengandung sepertiga <strong>glisin</strong> dan tidak mengandung triptofan. Glisin adalah penghambat neuro-transmisi yang kuat: ia memiliki efek menenangkan pada saraf (seperti obat penenang alami), melindungi lambung dari bisul, menghentikan produksi peradangan dari endotoksin, dan mencegah kematian sel.
         </p>
-        <p><em>Saran praktis:</em> Tambahkan bubuk gelatin murni atau minumlah kaldu tulang rumahan kapan pun Anda memakan daging tanpa tulang.</p>
 
-        <h2>2. Karbon Dioksida (CO2): Gas Kehidupan</h2>
+        <h2>2. Karbon Dioksida (CO2): Sang Pelindung Paripurna</h2>
         <p>
-          Ilmu kedokteran sering mengajarkan bahwa CO2 adalah "gas limbah beracun" hasil respirasi. Ray Peat meluruskan kekeliruan fatal ini. Berdasarkan efek Bohr, hemoglobin hanya akan melepaskan oksigen ke jaringan tubuh <strong>jika ada cukup CO2</strong>.
-        </p>
-        <p>
-          CO2 adalah pelindung sel yang luar biasa. Ia melebarkan pembuluh darah, menenangkan saraf, dan menghentikan produksi asam laktat. Hiperventilasi (bernapas terlalu cepat dan dalam) akan membuang CO2, memicu serangan panik, dan membuat sel Anda tercekik meskipun darah Anda penuh oksigen.
-        </p>
-        <p><em>Saran praktis:</em> Berlatihlah bernapas dangkal menggunakan hidung, atau gunakan teknik <em>Bag Breathing</em> (bernapas di dalam kantong kertas) untuk memulihkan CO2 saat cemas atau stres metabolik.</p>
-
-        <h2>3. Cahaya Merah & Cahaya Matahari</h2>
-        <p>
-          Dalam biologi kuantum sel, enzim pernapasan di dalam mitokondria (sitokrom c oksidase) sangat sensitif terhadap cahaya. 
+          Ilmu biologi modern sering menyesatkan dengan menyebut CO2 sekadar "gas limbah racun" hasil pernapasan. Sebaliknya, Dr. Peat menunjukkan bahwa CO2 adalah salah satu zat paling esensial untuk kelangsungan hidup sel. 
         </p>
         <ul style={{ listStyleType: 'none', paddingLeft: '8px' }}>
-          <li><span className="dot dot-orange"></span><strong>Cahaya Biru (Blue Light):</strong> Merusak mata, merusak enzim sitokrom, menurunkan metabolisme, dan meningkatkan stres selular. Ini banyak ditemukan pada layar LED, HP, dan lampu neon.</li>
-          <li><span className="dot dot-yellow"></span><strong>Cahaya Merah & Inframerah Dekat (Red Light):</strong> Menembus dalam ke dalam jaringan, mengaktifkan kembali mitokondria, mengurangi pembengkakan sel, dan mempercepat regenerasi. Cahaya matahari pagi dan sore kaya akan spektrum penyembuh ini.</li>
+          <li><span className="dot dot-olive"></span><strong>Efek Bohr (The Bohr Effect):</strong> Sel darah merah (hemoglobin) hanya akan melepaskan muatan oksigennya ke dalam jaringan <strong>jika ada cukup CO2</strong> di area tersebut. Tanpa CO2, Anda bisa memiliki kadar oksigen 100% di darah, tetapi organ Anda tetap mati lemas (hipoksia).</li>
+          <li><span className="dot dot-olive"></span><strong>Mencegah Laktat:</strong> CO2 menekan produksi asam laktat yang merusak.</li>
+          <li><span className="dot dot-olive"></span><strong>Bahaya Hiperventilasi:</strong> Bernapas terlalu cepat/dalam akibat stres membuang cadangan CO2 darah Anda. Ini memicu kejang pembuluh darah, sakit kepala, dan serangan panik. Latihan bernapas lambat dengan hidung (atau <em>bag breathing</em>) membantu mengembalikan cadangan CO2.</li>
         </ul>
-        <p><em>Saran praktis:</em> Batasi paparan cahaya biru terang di malam hari, dan dapatkan sinar matahari yang cukup atau gunakan lampu pijar panas (incandescent) di rumah.</p>
+
+        <h2>3. Cahaya Merah & Cahaya Matahari (Cytochrome c oxidase)</h2>
+        <p>
+          Dalam biologi kuantum, enzim pernapasan paling penting di dalam mitokondria (Cytochrome c oxidase) sangat sensitif terhadap frekuensi cahaya. 
+        </p>
+        <ul style={{ listStyleType: 'none', paddingLeft: '8px' }}>
+          <li><span className="dot dot-orange"></span><strong>Cahaya Biru (Blue Light):</strong> Ditemukan pada lampu neon, LED putih, dan layar gadget. Cahaya biru memecah ikatan enzim di mitokondria, mengurangi produksi ATP, dan memicu penuaan dini pada sel retina (mata) dan kulit. Gelap total tanpa cahaya juga dapat memicu stres pada tubuh.</li>
+          <li><span className="dot dot-yellow"></span><strong>Cahaya Merah & Inframerah Dekat:</strong> Cahaya bergelombang panjang ini (dari matahari pagi/sore, atau lampu pijar pijar/incandescent) dapat menembus menembus tengkorak dan kulit Anda. Cahaya merah mengikat kembali dan mengaktifkan enzim sitokrom, mendorong mitokondria untuk langsung memproduksi lebih banyak energi, memperbaiki kerusakan jaringan, dan menurunkan pembengkakan sel (edema).</li>
+        </ul>
+
+        <h2>Sinergi Tiga Elemen</h2>
+        <p>
+          Ketika Anda menggabungkan asupan gelatin (untuk menekan inflamasi pencernaan), cahaya merah (untuk merangsang mitokondria), dan karbohidrat yang tepat (untuk memproduksi CO2), Anda menciptakan lingkungan di mana sel dapat pulih dengan cepat dari cedera atau penyakit kronis tanpa bergantung pada hormon stres adrenalin/kortisol.
+        </p>
 
       </section>
 

@@ -25,38 +25,49 @@ const Sugar = () => {
       <AttributionBox />
 
       <section style={{ marginTop: '32px' }}>
-        <h2>Membedah Mitos Anti-Gula</h2>
+        <h2>Membedah Mitos Anti-Gula dan Diabetes</h2>
         <p>
-          Dalam budaya kesehatan saat ini, gula disalahkan atas hampir semua penyakit (obesitas, diabetes, penuaan). Namun, penelitian mendalam Dr. Ray Peat pada fisiologi sel membedakan antara gula "beracun" dan metabolisme gula yang efisien. Masalah utamanya seringkali bukan pada gula itu sendiri, melainkan pada <strong>ketidakmampuan sel untuk membakar gula</strong> akibat diracuni oleh asam lemak PUFA atau kekurangan hormon tiroid.
+          Dalam budaya kesehatan saat ini, gula disalahkan atas hampir semua penyakit modern (obesitas, diabetes, penuaan). Namun, penelitian mendalam Dr. Ray Peat pada fisiologi sel membedakan antara konsumsi gula kosong (junk food) dan peran glukosa/fruktosa alami sebagai bahan bakar sejati sel tubuh.
+        </p>
+        <p>
+          Peat menjelaskan bahwa diabetes tipe 2 sering kali bukanlah penyakit akibat "terlalu banyak gula", melainkan ketidakmampuan sel untuk membakar gula karena mitokondria diracuni oleh asam lemak (PUFA).
+        </p>
+
+        <h2>Siklus Randle (The Randle Cycle): Gula vs Lemak</h2>
+        <p>
+          Tahun 1960-an, Philip Randle menemukan bahwa gula dan lemak bersaing untuk dibakar di dalam sel. Jika ada terlalu banyak asam lemak bebas (Free Fatty Acids) dalam darah, sel akan dipaksa membakar lemak dan <strong>menutup pintu</strong> bagi gula. Akibatnya gula menumpuk di darah.
+        </p>
+        <p>
+          Ketika Anda makan makanan pro-metabolik (cukup gula alami) dan menghindari PUFA, tubuh menghentikan pelepasan asam lemak bebas (lipolisis) dan kembali membakar gula dengan efisien, menghasilkan karbon dioksida pelindung.
         </p>
 
         <h2>Gula (Sukrosa/Fruktosa) vs Pati (Starch)</h2>
         <p>
-          Pati (karbohidrat kompleks dari biji-bijian, roti, pasta) pada dasarnya adalah rantai panjang glukosa murni. Saat dicerna, ia dengan cepat menjadi glukosa yang memicu lonjakan insulin yang sangat tinggi. Selain itu, pati sering memberi makan bakteri endotoksin di usus yang menyebabkan inflamasi.
+          Pati (karbohidrat kompleks dari biji-bijian, gandum, pasta) pada dasarnya adalah rantai panjang glukosa murni. Saat dicerna, ia dengan cepat menjadi glukosa yang memicu lonjakan insulin secara masif. Selain itu, molekul pati sering tidak tercerna sempurna dan memberi makan bakteri endotoksin di usus, menyebabkan peradangan kronis yang merusak hati (liver).
         </p>
         <p>
-          Sebaliknya, gula alami dari buah matang (fruktosa) atau sukrosa (gabungan glukosa dan fruktosa) memiliki mekanisme yang berbeda:
+          Sebaliknya, gula alami dari buah matang (fruktosa) atau sukrosa (gabungan 50% glukosa dan 50% fruktosa) memiliki mekanisme yang jauh lebih aman secara metabolik:
         </p>
         <ul style={{ listStyleType: 'none', paddingLeft: '8px' }}>
-          <li><span className="dot dot-orange"></span>Fruktosa tidak membutuhkan insulin yang berlebihan untuk masuk ke dalam sel.</li>
-          <li><span className="dot dot-orange"></span>Fruktosa secara khusus mengisi glikogen hati (cadangan bahan bakar organ), yang sangat penting untuk mengubah hormon tiroid T4 menjadi T3.</li>
-          <li><span className="dot dot-orange"></span>Madu, buah-buahan, dan jus jeruk murni adalah sumber karbohidrat favorit Ray Peat karena mudah dicerna dan kaya akan mineral penyangga seperti kalium.</li>
+          <li><span className="dot dot-orange"></span><strong>Bebas Insulin:</strong> Fruktosa tidak membutuhkan insulin yang berlebihan untuk masuk ke dalam sel. Hal ini sangat menguntungkan bagi penderita resistensi insulin.</li>
+          <li><span className="dot dot-orange"></span><strong>Penyelamat Hati:</strong> Fruktosa sangat cepat disimpan menjadi glikogen hati (cadangan bahan bakar). Glikogen hati penuh sangat penting untuk mengubah hormon tiroid mentah (T4) menjadi aktif (T3).</li>
+          <li><span className="dot dot-orange"></span><strong>Kaya Mineral:</strong> Madu murni, buah-buahan matang tropis, dan jus jeruk murni adalah sumber karbohidrat favorit Ray Peat karena mudah dicerna dan disertai kalium/magnesium yang membantu relaksasi sel.</li>
         </ul>
 
-        <h2>Gula sebagai Anti-Stres</h2>
+        <h2>Gula sebagai Anti-Stres dan Anti-Kortisol</h2>
         <p>
-          Saat gula darah Anda turun, tubuh mendeteksi ini sebagai keadaan darurat (kelaparan). Kelenjar adrenal melepaskan hormon stres <strong>adrenalin dan kortisol</strong>.
+          Saat gula darah Anda turun (misalnya karena puasa, diet keto, atau stres), tubuh mendeteksi ini sebagai keadaan darurat kelaparan. Kelenjar adrenal langsung melepaskan hormon stres <strong>adrenalin dan kortisol</strong>.
         </p>
         <p>
-          Kortisol bertugas memecah jaringan tubuh Anda sendiri (seperti otot dan timus) menjadi asam amino, yang kemudian diubah hati menjadi glukosa baru untuk menjaga Anda tetap hidup. Proses stres perusakan diri ini dapat dicegah cukup dengan menyediakan karbohidrat (gula alami) yang cukup. 
+          Kortisol bertugas memecah jaringan otot dan organ tubuh Anda sendiri menjadi asam amino, yang kemudian diubah oleh liver menjadi glukosa baru untuk menyelamatkan otak Anda. Proses "kanibalisasi" diri sendiri inilah yang menyebabkan penuaan kulit, penyusutan otot, dan melemahnya sistem imun. Mengonsumsi gula alami meredam lonjakan adrenalin dan kortisol seketika.
         </p>
 
         <h2>Konteks Sangat Penting (The Matrix)</h2>
         <p>
-          Ray Peat tidak menganjurkan mengonsumsi permen atau soda tak terbatas. Konsumsi gula berlebih <em>tanpa</em> mengonsumsi zat gizi makro dan mikro lainnya (seperti kalsium, tembaga, protein berkualitas, dan vitamin B) tentu bermasalah karena akan menghabiskan cadangan mineral tubuh.
+          Dr. Peat <strong>TIDAK</strong> menganjurkan meminum soda jagung (HFCS) buatan atau permen olahan pabrik. Konsumsi gula berlebih <em>tanpa</em> nutrisi penyerta (kalsium, protein, vitamin B) akan menguras cadangan mineral tubuh untuk memproses gula tersebut.
         </p>
         <p>
-          Idealnya, gula selalu dikonsumsi <strong>bersama</strong> mineral (misalnya jus jeruk yang kaya mineral) atau sebagai penyeimbang protein (misalnya kopi atau susu yang dimaniskan) agar tubuh dapat menghasilkan energi dengan sempurna.
+          Idealnya, karbohidrat/gula dikonsumsi <strong>bersama</strong> protein berkualitas dan lemak jenuh. Misalnya: minum jus jeruk segar bersama telur, atau mencampur susu dengan madu dan sedikit garam. Kombinasi ini menstabilkan gula darah dan menekan pelepasan hormon stres.
         </p>
 
       </section>
