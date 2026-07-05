@@ -25,6 +25,7 @@ const Pufas = () => {
       <AttributionBox />
 
       <section style={{ marginTop: '32px' }}>
+        <img src="../ilustrasi-pufas.jpg" alt="Ilustrasi PUFA" style={{ width: '100%', height: 'auto', borderRadius: '12px', marginBottom: '32px', objectFit: 'cover', aspectRatio: '2/1', border: '1px solid var(--border-color)' }} />
         <h2>Apa itu PUFA?</h2>
         <p>
           PUFA singkatan dari <em>Polyunsaturated Fatty Acids</em> (Asam Lemak Tak Jenuh Ganda). Ini mencakup sebagian besar minyak nabati cair (seperti minyak kedelai, jagung, kanola, biji bunga matahari, safflower) serta minyak ikan (Omega-3 dan Omega-6).
@@ -34,7 +35,7 @@ const Pufas = () => {
         </p>
 
         <h2>Mengapa PUFA Sangat Berbahaya?</h2>
-        
+
         <h3>1. Ketidakstabilan Kimia & Peroksidasi Lipid (Lipid Peroxidation)</h3>
         <p>
           Struktur kimia PUFA memiliki banyak "ikatan rangkap" yang terbuka dan tidak stabil. Ketika ikatan ini bersentuhan dengan oksigen dan panas (terutama suhu tubuh manusia sekitar 37°C), PUFA dengan cepat teroksidasi dan menjadi tengik.

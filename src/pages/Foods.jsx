@@ -25,13 +25,14 @@ const Foods = () => {
       <AttributionBox />
 
       <section style={{ marginTop: '32px' }}>
+        <img src="../ilustrasi-foods.jpg" alt="Ilustrasi Makanan Pro-Metabolik" style={{ width: '100%', height: 'auto', borderRadius: '12px', marginBottom: '32px', objectFit: 'cover', aspectRatio: '2/1', border: '1px solid var(--border-color)' }} />
         <h2>Prinsip Nutrisi Ray Peat</h2>
         <p>
           Berbeda dengan banyak diet modern yang berfokus pada "pembatasan" (seperti membatasi karbohidrat atau lemak), pendekatan nutrisi Dr. Ray Peat berfokus pada <strong>memberi bahan bakar</strong> yang tepat agar kelenjar tiroid dan metabolisme sel dapat bekerja dengan maksimal. Makanan bukan hanya kalori; makanan adalah sinyal kimiawi bagi sel Anda.
         </p>
 
         <h2>Makanan Pro-Metabolik Utama</h2>
-        
+
         <h3>1. Karbohidrat Sederhana (Gula Alami)</h3>
         <p>
           Ray Peat tidak takut pada gula, asalkan berasal dari sumber yang tepat. Fruktosa sangat mendukung metabolisme hati karena ia dapat disimpan sebagai glikogen bahkan saat sel sedang berada di bawah pengaruh stres (berbeda dengan glukosa yang butuh insulin).

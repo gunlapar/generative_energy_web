@@ -25,6 +25,7 @@ const AdvancedFoundation = () => {
       <AttributionBox />
 
       <section style={{ marginTop: '32px' }}>
+        <img src="../ilustrasi-advance.jpg" alt="Ilustrasi Gelatin, CO2, Cahaya Merah" style={{ width: '100%', height: 'auto', borderRadius: '12px', marginBottom: '32px', objectFit: 'cover', aspectRatio: '2/1', border: '1px solid var(--border-color)' }} />
         <h2>Pelengkap Fondasi Bioenergetika</h2>
         <p>
           Selain nutrisi makro (gula dan lemak jenuh) serta hormon tiroid, ada tiga elemen kunci yang secara langsung mengatur ketahanan seluler terhadap stres, hipoksia (kekurangan oksigen), dan inflamasi. Memahami ketiganya akan menyempurnakan pemahaman Anda tentang filosofi penyembuhan Ray Peat.
@@ -40,7 +41,7 @@ const AdvancedFoundation = () => {
 
         <h2>2. Karbon Dioksida (CO2): Sang Pelindung Paripurna</h2>
         <p>
-          Ilmu biologi modern sering menyesatkan dengan menyebut CO2 sekadar "gas limbah racun" hasil pernapasan. Sebaliknya, Dr. Peat menunjukkan bahwa CO2 adalah salah satu zat paling esensial untuk kelangsungan hidup sel. 
+          Ilmu biologi modern sering menyesatkan dengan menyebut CO2 sekadar "gas limbah racun" hasil pernapasan. Sebaliknya, Dr. Peat menunjukkan bahwa CO2 adalah salah satu zat paling esensial untuk kelangsungan hidup sel.
         </p>
         <ul style={{ listStyleType: 'none', paddingLeft: '8px' }}>
           <li><span className="dot dot-olive"></span><strong>Efek Bohr (The Bohr Effect):</strong> Sel darah merah (hemoglobin) hanya akan melepaskan muatan oksigennya ke dalam jaringan <strong>jika ada cukup CO2</strong> di area tersebut. Tanpa CO2, Anda bisa memiliki kadar oksigen 100% di darah, tetapi organ Anda tetap mati lemas (hipoksia).</li>
@@ -50,7 +51,7 @@ const AdvancedFoundation = () => {
 
         <h2>3. Cahaya Merah & Cahaya Matahari (Cytochrome c oxidase)</h2>
         <p>
-          Dalam biologi kuantum, enzim pernapasan paling penting di dalam mitokondria (Cytochrome c oxidase) sangat sensitif terhadap frekuensi cahaya. 
+          Dalam biologi kuantum, enzim pernapasan paling penting di dalam mitokondria (Cytochrome c oxidase) sangat sensitif terhadap frekuensi cahaya.
         </p>
         <ul style={{ listStyleType: 'none', paddingLeft: '8px' }}>
           <li><span className="dot dot-orange"></span><strong>Cahaya Biru (Blue Light):</strong> Ditemukan pada lampu neon, LED putih, dan layar gadget. Cahaya biru memecah ikatan enzim di mitokondria, mengurangi produksi ATP, dan memicu penuaan dini pada sel retina (mata) dan kulit. Gelap total tanpa cahaya juga dapat memicu stres pada tubuh.</li>

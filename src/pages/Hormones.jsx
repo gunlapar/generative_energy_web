@@ -25,6 +25,7 @@ const Hormones = () => {
       <AttributionBox />
 
       <section style={{ marginTop: '32px' }}>
+        <img src="../ilustrasi-hormones.jpg" alt="Ilustrasi Hormon" style={{ width: '100%', height: 'auto', borderRadius: '12px', marginBottom: '32px', objectFit: 'cover', aspectRatio: '2/1', border: '1px solid var(--border-color)' }} />
         <h2>Pergeseran Paradigma Hormonal</h2>
         <p>
           Salah satu kontribusi paling revolusioner dari Dr. Ray Peat adalah pandangannya terhadap hormon seks, khususnya estrogen dan progesteron. Berbeda dengan pandangan medis konvensional yang sering menganggap estrogen semata-mata sebagai "hormon wanita yang baik", Ray Peat melihatnya dari sudut pandang bioenergetik dan evolusi.
@@ -32,7 +33,7 @@ const Hormones = () => {
 
         <h2>Estrogen: Hormon Syok, Hipoksia, dan Stres</h2>
         <p>
-          Ray Peat mengklasifikasikan estrogen bukan sebagai hormon feminitas sejati, melainkan hormon yang berhubungan dengan pembelahan sel yang tidak terkendali, pertumbuhan berlebih, dan respons terhadap syok atau cedera (hipoksia/kurang oksigen). 
+          Ray Peat mengklasifikasikan estrogen bukan sebagai hormon feminitas sejati, melainkan hormon yang berhubungan dengan pembelahan sel yang tidak terkendali, pertumbuhan berlebih, dan respons terhadap syok atau cedera (hipoksia/kurang oksigen).
         </p>
         <ul style={{ listStyleType: 'none', paddingLeft: '8px' }}>
           <li><span className="dot dot-orange"></span><strong>Menghambat Oksigenasi:</strong> Estrogen menghalangi pelepasan oksigen ke jaringan, memaksa sel bergeser dari pernapasan mitokondria yang efisien ke fermentasi laktat (karakteristik sel tumor).</li>

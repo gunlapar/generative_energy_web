@@ -25,6 +25,7 @@ const Thyroid = () => {
       <AttributionBox />
 
       <section style={{ marginTop: '32px' }}>
+        <img src="../ilustrasi-thyroid.jpg" alt="Ilustrasi Fungsi Tiroid" style={{ width: '100%', height: 'auto', borderRadius: '12px', marginBottom: '32px', objectFit: 'cover', aspectRatio: '2/1', border: '1px solid var(--border-color)' }} />
         <h2>Mengapa Tes Darah Tiroid TSH Sering Menipu?</h2>
         <p>
           Dalam praktiknya, jutaan orang menderita gejala hipotiroidisme akut—seperti kedinginan konstan, rontok rambut, depresi, penambahan berat badan yang tidak bisa dijelaskan, dan kelelahan parah—tetapi dokter mereka menyatakan bahwa "hasil tes darah TSH Anda normal, Anda baik-baik saja". Dr. Ray Peat menjelaskan bahwa tes TSH (Thyroid Stimulating Hormone) sebagai ukuran tunggal sangat cacat dan tidak mencerminkan tingkat energi di dalam sel Anda.

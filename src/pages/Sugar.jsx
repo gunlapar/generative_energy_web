@@ -25,6 +25,7 @@ const Sugar = () => {
       <AttributionBox />
 
       <section style={{ marginTop: '32px' }}>
+        <img src="../ilustrasi-sugar.jpg" alt="Ilustrasi Gula dan Metabolisme" style={{ width: '100%', height: 'auto', borderRadius: '12px', marginBottom: '32px', objectFit: 'cover', aspectRatio: '2/1', border: '1px solid var(--border-color)' }} />
         <h2>Membedah Mitos Anti-Gula dan Diabetes</h2>
         <p>
           Dalam budaya kesehatan saat ini, gula disalahkan atas hampir semua penyakit modern (obesitas, diabetes, penuaan). Namun, penelitian mendalam Dr. Ray Peat pada fisiologi sel membedakan antara konsumsi gula kosong (junk food) dan peran glukosa/fruktosa alami sebagai bahan bakar sejati sel tubuh.

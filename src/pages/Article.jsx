@@ -25,6 +25,7 @@ const Article = () => {
       <AttributionBox />
 
       <section style={{ marginTop: '32px' }}>
+        <img src="../ilustrasi-metabolics.jpg" alt="Ilustrasi Metabolic Rate" style={{ width: '100%', height: 'auto', borderRadius: '12px', marginBottom: '32px', objectFit: 'cover', aspectRatio: '2/1', border: '1px solid var(--border-color)' }} />
         <h2>Apa itu Metabolic Rate?</h2>
         <p>
           Metabolic rate adalah kecepatan tubuh Anda menggunakan energi untuk tetap hidup. Ini bukan hanya tentang membakar kalori saat berolahraga—ini tentang energi yang tubuh gunakan 24/7 untuk:
